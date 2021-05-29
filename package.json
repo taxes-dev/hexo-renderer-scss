@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-scss",
-  "version": "0.0.0-development",
+  "version": "0.0.1-taxes",
   "description": "Yet Another Sass renderer plugin for Hexo",
   "main": "index",
   "repository": {
@@ -22,8 +22,8 @@
     "hexo": ">= 3.0.0"
   },
   "dependencies": {
-    "node-sass": "^4.7.2",
-    "node-sass-magic-importer": "^5.1.1"
+    "node-sass": "^6.0.0",
+    "node-sass-magic-importer": "^5.3.2"
   },
   "bugs": {
     "url": "https://github.com/mamboer/hexo-renderer-scss/issues"
